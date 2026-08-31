@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Rachman
 
-![Linux terminal](https://raw.githubusercontent.com/mannnrachman/mannnrachman/main/assets/terminal.svg)
+![Linux terminal](https://raw.githubusercontent.com/mannnrachman/mannnrachman/main/assets/terminal.svg?v=2)
 
 I build practical tools on **Linux**—from AI developer tools and self-hosted infrastructure to software for education.
 
