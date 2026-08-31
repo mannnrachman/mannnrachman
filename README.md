@@ -8,33 +8,29 @@ I enjoy turning real operational problems into small, reliable systems: automati
 
 ## Skills & focus
 
-### Linux & Infrastructure
+![Skill focus allocation](https://raw.githubusercontent.com/mannnrachman/mannnrachman/main/assets/skills-focus.svg)
 
-`█████████░` **90% focus**
+The percentages show my current **focus allocation**, not formal certification or proficiency scores.
+
+### Linux & Infrastructure · 40%
 
 [![Linux, Bash, Nginx, Docker, Git, GitHub, Ubuntu](https://skillicons.dev/icons?i=linux,bash,nginx,docker,git,github,ubuntu)](https://skillicons.dev)
 
 Ubuntu · Bash · Nginx · systemd · Docker · SSH · reverse proxies · VPS deployment
 
-### AI & Developer Tooling
-
-`████████░░` **80% focus**
+### AI & Developer Tooling · 30%
 
 [![Python, TypeScript, Node.js, Rust, Go](https://skillicons.dev/icons?i=python,typescript,nodejs,rust,go)](https://skillicons.dev)
 
 Coding agents · MCP · LLM integrations · RAG · agent workflows · automation
 
-### Backend & Web
-
-`███████░░░` **70% focus**
+### Backend & Web · 20%
 
 [![Go, Python, Rust, Node.js, TypeScript, React, Next.js, PHP, Laravel](https://skillicons.dev/icons?i=go,python,rust,nodejs,typescript,react,nextjs,php,laravel)](https://skillicons.dev)
 
 REST APIs · PostgreSQL · SQLite · React · TanStack · SvelteKit · Tailwind CSS
 
-### Education & Productivity
-
-`██████░░░░` **60% focus**
+### Education & Productivity · 10%
 
 Education technology · academic systems · assessment platforms · personal productivity · fitness data
 
