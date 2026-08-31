@@ -8,7 +8,7 @@ I enjoy turning real operational problems into small, reliable systems: automati
 
 ## Skills & focus
 
-![Skill focus allocation](https://raw.githubusercontent.com/mannnrachman/mannnrachman/main/assets/skills-focus-live.svg)
+![Skill focus allocation](https://raw.githubusercontent.com/mannnrachman/mannnrachman/main/assets/skills-focus-contained.svg)
 
 The percentages show my current **focus allocation**, not formal certification or proficiency scores. Together, they represent 100% of my current work.
 
