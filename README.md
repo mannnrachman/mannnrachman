@@ -8,9 +8,9 @@ I enjoy turning real operational problems into small, reliable systems: automati
 
 ## Skills & focus
 
-![Skill focus allocation](https://raw.githubusercontent.com/mannnrachman/mannnrachman/main/assets/skills-focus.svg)
+![Skill focus allocation](https://raw.githubusercontent.com/mannnrachman/mannnrachman/main/assets/skills-focus-v2.svg)
 
-The percentages show my current **focus allocation**, not formal certification or proficiency scores.
+The percentages show my current **focus allocation**, not formal certification or proficiency scores. Together, they represent 100% of my current work.
 
 ### Linux & Infrastructure · 40%
 
@@ -33,6 +33,15 @@ REST APIs · PostgreSQL · SQLite · React · TanStack · SvelteKit · Tailwind 
 ### Education & Productivity · 10%
 
 Education technology · academic systems · assessment platforms · personal productivity · fitness data
+
+## How I work
+
+- **Solve the real problem first** — understand the operational need before adding complexity.
+- **Automate repetitive work** — turn recurring manual steps into reliable tools.
+- **Think in systems** — connect services, data, deployment, and user workflow.
+- **Design for reliability** — prefer simple, observable, maintainable solutions.
+- **Document the path** — make tools easier to install, understand, and reuse.
+- **Learn by building** — explore new ideas through working prototypes.
 
 ## Currently building
 
